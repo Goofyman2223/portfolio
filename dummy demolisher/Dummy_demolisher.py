@@ -43,7 +43,7 @@ volume = .2
 sfx_volume = .1
 
 #background music
-background_song = pygame.mixer.music.load("PORTFOLIO/SFX/Background_song.wav")
+background_song = pygame.mixer.music.load("SFX/Background_song.wav")
 
 #Sound effects for the game
 bomb_explode = pygame.mixer.Sound("SFX/Bomb_sfx.mp3")
